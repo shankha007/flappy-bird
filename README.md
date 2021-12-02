@@ -1,6 +1,6 @@
 # Flappy Bird Game
 
-This is a very basic game. There is a bird and vertical bars in the game. The bird has to go through the holes. If the bird touches the bar, the game will be over. You will be awarded a point every time you cross a vertical bar
+This is a very basic game. There is a bird and vertical bars in the game. The bird has to go through the holes. If the bird touches the bar or the ground, the game will be over. You will be awarded a point every time you cross a vertical bar.
 
 ## How to play
 
